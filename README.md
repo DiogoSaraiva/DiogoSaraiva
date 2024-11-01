@@ -1,8 +1,6 @@
-<p align="center">
-# Hi there 👋
-## I'm Diogo Saraiva, a BSc Student in Informatics @ FCUL
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">I'm Diogo Saraiva, a BSc Student in Informatics @ FCUL</h2>
 
-</p>
 
 
 <!--
